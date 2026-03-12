@@ -1,6 +1,7 @@
 # Inertia-Puzzle
 Java implementation of the Inertia puzzle solver using BFS, Greedy, Divide &amp; Conquer, Dynamic Programming, and Backtracking with animated visualization.
-Inertia Puzzle Solver 🎮
+Inertia Puzzle Solver 
+
 Overview
 
 The Inertia Puzzle Solver is a Java-based application that automatically solves the classic Inertia puzzle game using multiple algorithmic strategies.
